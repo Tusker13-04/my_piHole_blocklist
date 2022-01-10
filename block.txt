@@ -2,4 +2,9 @@ youtube.com
 googlevideo.com
 hotstar.com
 netflix.com
-nflxvideo.net
+(\.|^)nflxvideo\.net$
+(\.|^)youtubei\.googleapis\.com$
+(\.|^)youtube\.com$
+(\.|^)googlevideo\.com$
+(\.|^)youtube$
+(\.|^)googlevideo$
